@@ -1,2 +1,6 @@
-# gitCurso
-Curso de Git e GitHub
+# Linguagem C
+## Curso Primeiros Passos com a Linguagem C
+
+Aprenda a linguagem C de forma simples
+
+![Homem Letra]()
